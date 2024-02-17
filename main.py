@@ -13,7 +13,7 @@ class Queue():
 if __name__ == '__main__':
     pass
     #REMOVE PASS AND COMPLETE THE FUNCTION
-    print('Queue()')
+    Queue()
     
 
     
