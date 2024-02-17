@@ -11,8 +11,10 @@ class Queue():
         del self.cards[0]
 
 if __name__ == '__main__':
+    pass
     #REMOVE PASS AND COMPLETE THE FUNCTION
-    print('Queue()')
+    #Push tests LR
+    #print('Queue()')
     
 
     
