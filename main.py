@@ -12,8 +12,8 @@ class Queue():
 
 if __name__ == '__main__':
     #REMOVE PASS AND COMPLETE THE FUNCTION
-    print('Queue()')
-    
+    Queue()
+
 
     
    
